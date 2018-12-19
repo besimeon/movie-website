@@ -1,19 +1,19 @@
-#Movie Website Project
+# Movie Website Project
 ----------------------
 This is a project created for Udacity Coursework. This project takes a list of movies and associated data, and outputs it to the user in the browser.  
 
-##Table of Contents
+## Table of Contents
 -------------------
 - [Prerequisites](#prerequisites)
 - [Install](#install)
 
-##Prerequisites
+## Prerequisites
 ---------------
 - Python 2.5 or greater. 
 - Sufficient user permissions to run Python files.  
 - Web Browser with ability to play Youtube video
 
-##Install
+## Install
 ---------
 - Extract contents of movie_website.zip
 - Open a terminal window if using Mac or Linux
